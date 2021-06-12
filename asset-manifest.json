@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robopraxis/static/css/main.4cd3daf4.chunk.css",
+    "main.js": "/robopraxis/static/js/main.661c2593.chunk.js",
+    "main.js.map": "/robopraxis/static/js/main.661c2593.chunk.js.map",
+    "runtime-main.js": "/robopraxis/static/js/runtime-main.dc1b2d31.js",
+    "runtime-main.js.map": "/robopraxis/static/js/runtime-main.dc1b2d31.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/robopraxis/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5e84ae17.chunk.js": "/robopraxis/static/js/2.5e84ae17.chunk.js",
+    "static/js/2.5e84ae17.chunk.js.map": "/robopraxis/static/js/2.5e84ae17.chunk.js.map",
+    "static/js/3.e93112a8.chunk.js": "/robopraxis/static/js/3.e93112a8.chunk.js",
+    "static/js/3.e93112a8.chunk.js.map": "/robopraxis/static/js/3.e93112a8.chunk.js.map",
+    "index.html": "/robopraxis/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/robopraxis/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.4cd3daf4.chunk.css.map": "/robopraxis/static/css/main.4cd3daf4.chunk.css.map",
+    "static/js/2.5e84ae17.chunk.js.LICENSE.txt": "/robopraxis/static/js/2.5e84ae17.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robopraxis/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1b2d31.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5e84ae17.chunk.js",
+    "static/css/main.4cd3daf4.chunk.css",
+    "static/js/main.661c2593.chunk.js"
+  ]
+}
